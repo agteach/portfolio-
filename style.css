@@ -216,7 +216,7 @@ h2 {
 .filter-btn.active, .filter-btn:hover { background: var(--accent-color); color: white; border-color: var(--accent-color); }
 
 .masonry-grid {
-  column-count: 2; /* 2 columns for masonry */
+  column-count: 2; 
   column-gap: 1.5rem;
 }
 
